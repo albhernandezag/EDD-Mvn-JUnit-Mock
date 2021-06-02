@@ -15,7 +15,7 @@ import static org.mockito.Mockito.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 @ExtendWith(MockitoExtension.class)
-class TestExamen {
+class ArkanoidTest{
 
 	@Spy
 	private Arkanoid spyArkanoid;
